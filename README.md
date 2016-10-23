@@ -1,3 +1,3 @@
 #Misc Programs
 
-A collection of programs that were written for practice and/or for fun.
+A collection of programs that were written for practice and/or fun.
